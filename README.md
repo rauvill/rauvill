@@ -1,6 +1,6 @@
 "Olá boas vindas ao ver meu perfil💟
 
--usarei este espaço para minha orgaização
+-usarei este espaço para minha orgaização de meu projeto do Alura
 
 -tenho 15 anos❣️
 
